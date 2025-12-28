@@ -1,0 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Sitemap location
+# TODO: Update this URL to match your production domain
+Sitemap: https://visibility-intelligence-lab.vercel.app/sitemap.xml
+
