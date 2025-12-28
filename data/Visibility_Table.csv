@@ -1,0 +1,304 @@
+Date,Platform,Topic,Rank,Media Outlet,Category,Sponsored Ad?,Country,Notes / Observations
+12/6/2025,Google,“luana lopes lara”,1,Future,Mainstream Tech/Business,No,US,Featured as “Full Coverage” cluster; algorithm prioritizes explainer-style tech/business reporting.
+12/6/2025,Google,“luana lopes lara”,2,New York Post,Mainstream,No,US,Tabloid-style mainstream outlet boosted by recency and high click-through patterns.
+12/6/2025,Google,“luana lopes lara”,3,News18.com,Foreign Mainstream,No,India,Google surfaces Indian outlets aggressively for global celebrity/business topics.
+12/6/2025,Google,“luana lopes lara”,4,WION,Foreign Mainstream,No,India,Visibility suggests geographic neutral trending weighting from Google.
+12/6/2025,Google,“luana lopes lara”,5,Daily Mail,Mainstream,No,UK,1-day-old article; pushed up due to strong SEO optimisation and image-rich metadata.
+12/6/2025,Google,“luana lopes lara”,6,The Economic Times,Foreign Mainstream,No,India,Business-focused outlet placed mid-page — Google clusters business analysis secondary to tabloid news.
+12/6/2025,Google,“luana lopes lara”,7,NDTV,Foreign Mainstream,No,India,Google ranks NDTV strongly for global trending personalities; SEO plays a role.
+12/6/2025,Google,“luana lopes lara”,8,Times of India,Foreign Mainstream,No,India,Deep SEO dominance from Indian outlets — classic Google ranking bias for trending news.
+12/6/2025,Google,“luana lopes lara”,9,(Image card grouping),N/A,No,N/A,Google's auto-generated “Full Coverage” card pulled from multiple outlets; signals strong topic virality.
+12/6/2025,Google,“luana lopes lara”,10,(Continuation of image cluster),N/A,No,N/A,Topic cluster rather than individual article; reflects algorithmic aggregation.
+12/6/2025,Google,“world cup groups”,1,Full Coverage (Google),Aggregated,No,N/A,Google treats the World Cup draw as a live major event — algorithm auto-generates a “Top news” cluster.
+12/6/2025,Google,“world cup groups”,2,ESPN,Mainstream,No,US,ESPN given extremely high priority for sports — dominant authority in US sports news.
+12/6/2025,Google,“world cup groups”,3,The Guardian,Mainstream,No,UK,High placement for UK outlets due to football relevance and editorial authority.
+12/6/2025,Google,“world cup groups”,4,BBC Sport,Mainstream,No,UK,BBC Sports always ranks top 5 for global football topics; strong domain trust.
+12/6/2025,Google,“world cup groups”,5,USA Today,Mainstream,No,US,Appears due to US-based interest in 2026 co-hosting.
+12/6/2025,Google,“world cup groups”,6,The Pundit League,Independent Sports,No,US/UK,Lower-tier independent sports analysis outlet ranked mid-page; shows recency helping smaller outlets.
+12/6/2025,Google,“world cup groups”,7,Sports Illustrated,Mainstream,No,US,Part of Google's “for context” cluster — algorithm mixing explainers with breaking news.
+12/6/2025,Google,“world cup groups”,8,X (embedded posts),Social platform,No,US,Google integrating “Posts on X” directly below official news — demonstrates algorithmic preference for live reactions.
+12/6/2025,Google,“world cup groups”,9,The New York Times,Mainstream,No,US,Article placed lower due to slower update time; high authority but less recency.
+12/6/2025,Google,“world cup groups”,10,Rediff,Foreign Mainstream,No,India,Google frequently mixes in Indian outlets for international sports due to massive click-volume and SEO optimization.
+12/6/2025,Google,“birthright citizenship”,1,The New York Times,Mainstream,No,US,Top placement due to NYT's authority on US legal/political reporting.
+12/6/2026,Google,“birthright citizenship”,2,BBC,Foreign Mainstream,No,UK,BBC elevated because the case has international political implications.
+12/6/2025,Google,“birthright citizenship”,3,The Guardian,Foreign Mainstream,No,UK,Algorithm favors UK outlets for political coverage with global interest.
+12/6/2025,Google,“birthright citizenship”,4,CNN,Mainstream,No,US,CNN gets high ranking for breaking political news; timestamp recency helps.
+12/6/2025,Google,“birthright citizenship”,5,NPR,Mainstream Public Media,No,US,Public service outlet placed mid-page — strong for legal topics.
+12/6/2025,Google,“birthright citizenship”,6,USA Today,Mainstream,No,US,General-audience coverage ranked slightly lower due to slower update.
+12/6/2025,Google,“birthright citizenship”,7,ABC News,Mainstream,No,US,Ranked lower likely due to identical coverage clusters; algorithm penalizes redundancy.
+12/6/2025,Google,“birthright citizenship”,8,SCOTUSblog,Independent Legal,No,US,Very important observation: the only independent media outlet — highly trusted in legal reporting — still appears lower than mainstream.
+12/6/2025,Google,“birthright citizenship”,9,Axios,Mainstream,No,US,Axios placed low despite recency; suggests Google’s preference for traditional legacy outlets over digital-first ones.
+12/6/2025,Google,“birthright citizenship”,10,Washington Post,Mainstream,No,US,Appears surprisingly low — likely due to publication timestamp being older than NYT/CNN versions.
+12/7/2025,Google,nvidia ceo,1,Fortune,Mainstream Business,No,US,Article surfaces first due to high authority on tech leadership and Fortune’s SEO strength.
+12/7/2025,Google,nvidia ceo,2,NY Post,Mainstream,No,US,Tabloid mainstream outlet; algorithm boosts due to high CTR and emotional headlines.
+12/7/2025,Google,nvidia ceo,3,Investing.com,Foreign Mainstream (Finance),No,Cyprus/Global,Finance-heavy keyword influences Google to show market-oriented reporting.
+12/7/2025,Google,nvidia ceo,4,Global Times,Foreign State-Affiliated,No,China,Notable presence: reflects geopolitical relevance of Nvidia–China tensions.
+12/7/2025,Google,nvidia ceo,5,AOL.com,Mainstream Legacy,No,US,Aggregates external reporting; ranked due to recency (6 hours).
+12/7/2025,Google,nvidia ceo,6,The Indian Express,Foreign Mainstream,No,India,Indian outlets dominate due to strong SEO and global tech interest.
+12/7/2025,Google,nvidia ceo,7,The Financial Express,Foreign Mainstream,No,India,Continues the cluster of India-based financial news.
+12/7/2025,Google,nvidia ceo,8,Korea JoongAng Daily,Foreign Mainstream,No,South Korea,Ranked due to relevance to Korean semiconductor industry.
+12/7/2025,Google,nvidia ceo,9,VideoCardz,Independent Tech,No,Poland,Independent yet extremely strong hardware site; algorithm pushes due to niche authority.
+12/7/2025,Google,nvidia ceo,10,benzinga,Mainstream Finance,No,US,Financial markets orientation; appears in long-tail cluster.
+12/7/2025,Google,benin coup,1,NPR,Mainstream Public Service,No,US,NPR’s international reporting is highly trusted; defaults to rank #1.
+12/7/2025,Google,benin coup,2,AP News,Mainstream,No,US,AP’s wire service dominance ensures top placement for breaking geopolitics.
+12/7/2025,Google,benin coup,3,Al Jazeera,Foreign Mainstream,No,Qatar,Al Jazeera’s Africa coverage is authoritative; placed top-3.
+12/7/2025,Google,benin coup,4,NBC News,Mainstream,No,US,US mainstream coverage ranks lower than wire agencies for African political crises.
+12/7/2025,Google,benin coup,5,Reuters,Mainstream,No,UK/Global,"Reuters appears mid-page due to timestamp differences, not authority."
+12/7/2025,Google,benin coup,6,AP News (duplicate cluster),Mainstream,No,US,Google pulling multiple AP entries signals a shortage of diverse independent coverage.
+12/7/2025,Google,benin coup,7,France 24,Foreign Public Media,No,France,France has colonial ties to West Africa; algorithm surfaces them prominently.
+12/7/2025,Google,benin coup,8,Bloomberg,Mainstream,No,US,Focuses on political instability’s economic implications.
+12/7/2025,Google,benin coup,9,Le Monde,Foreign Mainstream,No,France,French coverage has high relevance for francophone Africa.
+12/7/2025,Google,benin coup,10,Anadolu Agency,Foreign State-Linked,No,Turkey,AA appears in most political crisis coverage due to syndication across regions.
+12/7/2025,Google,sept 2 boat attack,1,The New York Times,Mainstream,No,US,Legal/military accountability topic → NYT default lead.
+12/7/2025,Google,sept 2 boat attack,2,The Hill,Mainstream Politics,No,US,Political framing centers on congressional reaction.
+12/7/2025,Google,sept 2 boat attack,3,Fox News,Mainstream,No,US,Conservative framing; algorithm balances ideological ecosystems.
+12/7/2025,Google,sept 2 boat attack,4,AP News,Mainstream,No,US,High-trust wire service supporting breaking military investigations.
+12/7/2025,Google,sept 2 boat attack,5,The Indian Express,Foreign Mainstream,No,India,Yet again Indian SEO influence — Google pushes Indian recaps globally.
+12/7/2025,Google,sept 2 boat attack,6,AOL News,Mainstream Aggregator,No,US,Recency + aggregation = mid-tier ranking.
+12/7/2025,Google,sept 2 boat attack,7,Wall Street Journal,Mainstream,No,US,"Business-linked angle, likely tied to defense contracting implications."
+12/7/2025,Google,sept 2 boat attack,8,Spectrum Local News,Local Mainstream,No,US,Local reporting surfaced due to specific victims and military jurisdiction.
+12/7/2025,Google,sept 2 boat attack,9,Military.com,Independent Military Media,No,US,"Highly relevant niche authority, but algorithm ranks niche outlets lower."
+12/7/2025,Google,sept 2 boat attack,10,Politics365,Independent Digital,No,US,Very small digital outlet ranked last; reflects algorithmic preference hierarchy.
+12/8/2025,Google,china exports southeast asia surge,1,Financial Times,Mainstream,No,UK,FT dominates due to premium global trade coverage.
+12/8/2025,Google,china exports southeast asia surge,2,Financial Times (second article),Mainstream,No,UK,Duplicate cluster signals FT’s high topical authority.
+12/8/2025,Google,china exports southeast asia surge,3,NY Times,Mainstream,No,US,Emphasizes U.S.–China trade angle; high ranking due to global authority.
+12/8/2025,Google,china exports southeast asia surge,4,South China Morning Post,Foreign Mainstream,No,Hong Kong,SCMP specializes in China–Asia trade; algorithm rewards niche authority.
+12/8/2025,Google,china exports southeast asia surge,5,AP News,Mainstream,No,US,"AP covers macroeconomic impacts, strong recency signal."
+12/8/2025,Google,china exports southeast asia surge,6,Nikkei Asia,Foreign Mainstream,No,Japan,Asia-focused business reporting; high regional relevance.
+12/8/2025,Google,china exports southeast asia surge,7,Hong Kong Free Press,Independent,No,Hong Kong,One of the few independent outlets in China-related coverage.
+12/8/2025,Google,china exports southeast asia surge,8,Devdiscourse,Independent/Development,No,India,Often surfaces in global-south economic stories due to SEO patterns.
+12/8/2025,Google,china exports southeast asia surge,9,Market News (Shenwan),Foreign Finance,No,China,Specialized financial data source; algorithm prioritizes data-heavy outlets.
+12/8/2025,Google,china exports southeast asia surge,10,Devdiscourse,Independent/Development,No,India,Second entry → indicates limited diversity in Southeast Asia export news.
+12/8/2025,Google,elon musk eu should be abolished,1,CNBC,Mainstream Business,No,US,High authority for tech/policy intersections; strong SEO.
+12/8/2025,Google,elon musk eu should be abolished,2,Business Insider,Mainstream Digital,No,US,"Early coverage, highly optimized tech-political reporting."
+12/8/2025,Google,elon musk eu should be abolished,3,Sky News,Mainstream,No,UK,UK media strongly represented on EU-related controversies.
+12/8/2025,Google,elon musk eu should be abolished,4,The Guardian,Mainstream,No,UK,Provides political framing; Google boosts ideological pairings.
+12/8/2025,Google,elon musk eu should be abolished,5,The Telegraph,Mainstream (Right-Leaning),No,UK,Algorithm balances ideological spread after The Guardian.
+12/8/2025,Google,elon musk eu should be abolished,6,Mint,Foreign Mainstream,No,India,Indian SEO dominance in tech news continues.
+12/8/2025,Google,elon musk eu should be abolished,7,Business Today,Foreign Mainstream,No,India,Reinforces India’s strong tech-finance indexing on Google.
+12/8/2025,Google,elon musk eu should be abolished,8,The Independent,Mainstream,No,UK,Signature Musk headline framing; often appears in EU news cycles.
+12/8/2025,Google,elon musk eu should be abolished,9,Daily Mail,Mainstream Tabloid,No,UK,Google balances tabloid/traffic engines for trending topics.
+12/8/2025,Google,elon musk eu should be abolished,10,Times of India,Foreign Mainstream,No,India,Third Indian outlet — strong evidence of non-Western indexing dominance.
+12/8/2025,Google,thailand cambodia,1,BBC,Mainstream Public,No,UK,Top placement: trusted global coverage on conflicts.
+12/8/2025,Google,thailand cambodia,2,CNN,Mainstream,No,US,Strong global presence; breaking conflict reporting.
+12/8/2025,Google,thailand cambodia,3,AP News,Mainstream,No,US,Wire services dominate early conflict updates.
+12/8/2025,Google,thailand cambodia,4,NPR,Public Media,No,US,NPR gives contextual geopolitical framing → algorithmic value.
+12/8/2025,Google,thailand cambodia,5,The Guardian,Mainstream,No,UK,The Guardian often ranks highly for international conflicts.
+12/8/2025,Google,thailand cambodia,6,NY Times,Mainstream,No,US,NYT anchors US geopolitical perspectives.
+12/8/2025,Google,thailand cambodia,7,CBS News,Mainstream,No,US,Algorithm surfaces multiple U.S. broadcasters for war-like events.
+12/8/2025,Google,thailand cambodia,8,Al Jazeera,Foreign Mainstream,No,Qatar,Strong Southeast Asian coverage.
+12/8/2025,Google,thailand cambodia,9,Hindustan Times,Foreign Mainstream,No,India,India strongly indexed in global conflict topics — recurring pattern.
+12/8/2025,Google,thailand cambodia,10,The Straits Times,Foreign Mainstream,No,Singapore,Regionally authoritative in Southeast Asian border tensions.
+12/9/2025,Google,trump affordability,1,AP News,Mainstream,No,US,AP dominates political coverage; high recency signal.
+12/9/2025,Google,trump affordability,2,AP News (2nd article),Mainstream,No,US,Duplicate clustering shows AP’s monopoly in campaign framing.
+12/9/2025,Google,trump affordability,3,AP News (3rd article),Mainstream,No,US,Coverage saturation → low media diversity.
+12/9/2025,Google,trump affordability,4,CNN,Mainstream,No,US,Provides commentary-based framing; algorithm balances AP dominance.
+12/9/2025,Google,trump affordability,5,Yahoo Finance,Mainstream Digital/Aggregator,No,US,Financial focus connects affordability narratives with economic markets.
+12/9/2025,Google,trump affordability,6,NY Times,Mainstream,No,US,NYT reinforces economic framing around tariffs and affordability.
+12/9/2025,Google,trump affordability,7,Reuters,Mainstream,No,UK/Global,Wire service with high authority on policy narratives.
+12/9/2025,Google,trump affordability,8,Fox Business,Mainstream,No,US,Conservative economic framing for campaign coverage.
+12/9/2025,Google,trump affordability,9,USA Today,Mainstream,No,US,Mid-tier mainstream outlet; prioritizes general audience insights.
+12/9/2025,Google,trump affordability,10,Bloomberg,Mainstream Financial,No,US,Economic analysis focused on inflation and political messaging.
+12/9/2025,Google,supreme court of the united states,1,Courthouse News,Independent Legal,No,US,Highly specialized legal outlet; elevated due to SCOTUS specificity.
+12/9/2025,Google,supreme court of the united states,2,AP News,Mainstream,No,US,Wire service with strongest authority in legal coverage.
+12/9/2025,Google,supreme court of the united states,3,The Hill,Mainstream Political,No,US,Known for political interpretation of legal events.
+12/9/2025,Google,supreme court of the united states,4,CNN,Mainstream,No,US,High recency & national interest.
+12/9/2025,Google,supreme court of the united states,5,Vox,Digital Mainstream,No,US,Algorithm surfaces Vox for explanatory journalism.
+12/9/2025,Google,supreme court of the united states,6,The New Yorker,Mainstream,No,US,Deep-dive SCOTUS analysis gives high topic authority.
+12/9/2025,Google,supreme court of the united states,7,SCOTUSblog,Independent Legal,No,US,Most authoritative SCOTUS resource; algorithmically niche but highly relevant.
+12/9/2025,Google,supreme court of the united states,8,ABC News,Mainstream,No,US,Ranks lower than specialized outlets when topic is deeply legal.
+12/9/2025,Google,supreme court of the united states,9,Fox News,Mainstream,No,US,Provides conservative political framing of court decisions.
+12/9/2025,Google,supreme court of the united states,10,CNBC,Business Mainstream,No,US,Focus on economic/policy implications of SCOTUS rulings.
+12/9/2025,Google,australian children lost social media,1,CNN,Mainstream,No,US,"High recency, global reach, child safety framing."
+12/9/2025,Google,australian_children_lost_social_media,2,ABC News (Australia),Foreign Public Media,No,Australia,Regionally authoritative; strong placement.
+12/9/2025,Google,australian_children_lost_social_media,3,The Guardian,Mainstream,No,UK,Strong investigative angle on policy.
+12/9/2025,Google,australian_children_lost_social_media,4,Yahoo News,Aggregator,No,US,Pulls major articles; high SEO performance.
+12/9/2025,Google,australian_children_lost_social_media,5,Daily Telegraph,Mainstream Tabloid,No,UK,Tabloid appeal boosts click-through signals.
+12/9/2025,Google,australian_children_lost_social_media,6,NBC News,Mainstream,No,US,U.S. framing for global child-safety issues.
+12/9/2025,Google,australian_children_lost_social_media,7,The Guardian (Australia),Foreign Mainstream,No,Australia,Localised Guardian piece for Australian readers.
+12/9/2025,Google,australian_children_lost_social_media,8,ABC (Foreign Public Media),Public Media,No,Australia,Duplicate network entry; regional dominance.
+12/9/2025,Google,australian_children_lost_social_media,9,BBC,Public Media,No,UK,Algorithm highlights UK national coverage on social media policy.
+12/9/2025,Google,australian_children_lost_social_media,10,City Beat,Independent/Niche,No,Canada,Rare independent outlet; appears due to youth & LGBTQ+ angle.
+12/10/2025,Google,warner bros deal,1,CNBC,Mainstream Business,No,US,Breaking business news; CNBC gets priority in major M&A.
+12/10/2025,Google,warner bros deal,2,The Wall Street Journal,Mainstream Financial,No,US,High domain authority in corporate acquisitions.
+12/10/2025,Google,warner bros deal,3,NBC News,Mainstream,No,US,Broader political framing of deal’s implications.
+12/10/2025,Google,warner bros deal,4,Deadline,Industry Mainstream,No,US,Hollywood-focused outlet; high relevance to entertainment sector.
+12/10/2025,Google,warner bros deal,5,Yahoo Finance,Aggregator,No,US,Financial aggregation boosts ranking due to trending tickers.
+12/10/2025,Google,warner bros deal,6,CNN,Mainstream,No,US,Coverage emphasizes political angles behind corporate battles.
+12/10/2025,Google,warner bros deal,7,NY Times,Mainstream,No,US,Influential investigative angle on financial power players.
+12/10/2025,Google,warner bros deal,8,The Hollywood Reporter,Industry Mainstream,No,US,High subject authority; deep Hollywood connections.
+12/10/2025,Google,warner bros deal,9,CBS News,Mainstream,No,US,Emphasis on public-facing interpretation of takeover fight.
+12/10/2025,Google,warner bros deal,10,Variety,Industry Mainstream,No,US,Entertainment industry trade outlet → highly relevant.
+12/10/2025,Google,thailand cambodia war,1,CNN,Mainstream,No,US,Leads conflict coverage with strong global-recency signal.
+12/10/2025,Google,thailand cambodia war,2,Al Jazeera,Foreign Mainstream,No,Qatar,High Southeast Asia conflict expertise.
+12/10/2025,Google,thailand cambodia war,3,Reuters,Mainstream,No,UK/Global,Wire agency: instant global dissemination.
+12/10/2025,Google,thailand cambodia war,4,NY Times,Mainstream,No,US,Emphasizes human displacement + geopolitical framing.
+12/10/2025,Google,thailand cambodia war,5,BBC,Public Media,No,UK,Trusted global-conflict framing.
+12/10/2025,Google,thailand cambodia war,6,Bloomberg,Mainstream Financial,No,US,Focus on political risk and market implications.
+12/10/2025,Google,thailand cambodia war,7,The Guardian,Mainstream,No,UK,Explanatory angle — “explained in 30 seconds.”
+12/10/2025,Google,thailand cambodia war,8,AP News,Mainstream,No,US,Wire service confirms ongoing fighting.
+12/10/2025,Google,thailand cambodia war,9,The Economist,Mainstream,No,UK,Big-picture geopolitical interpretation.
+12/10/2025,Google,thailand cambodia war,10,Council on Foreign Relations,Think Tank,No,US,CFR adds elite policy analysis → rare non-newsroom ranking.
+12/10/2025,Google,trump's speech,1,The Guardian,Mainstream,No,UK,High visibility due to political critique angle.
+12/10/2025,Google,trump's speech,2,ABC News,Mainstream,No,US,Covers domestic reaction to campaign rhetoric.
+12/10/2025,Google,trump's speech,3,CNN,Mainstream,No,US,Focus on contradictions with public commitments.
+12/10/2025,Google,trump's speech,4,NBC News,Mainstream,No,US,Concentrates on economic themes of speech.
+12/10/2025,Google,trump's speech,5,The Daily Beast,Independent Digital,No,US,More sensationalist angle; appeals to algorithmic engagement patterns.
+12/10/2025,Google,trump's speech,6,ABC News (duplicate cluster),Mainstream,No,US,Second article highlighting affordability framing.
+12/10/2025,Google,trump's speech,7,NBC News (duplicate cluster),Mainstream,No,US,Reinforces speech’s economic narrative.
+12/10/2025,Google,trump's speech,8,The New Republic,Independent Political,No,US,Opinion-heavy outlet boosts ideological variety in rankings.
+12/10/2025,Google,trump's speech,9,The Guardian (duplicate cluster),Mainstream,No,UK,Google surfaces multiple Guardian takes on Trump.
+12/10/2025,Google,trump's speech,10,Politico,Mainstream Political,No,US,High political authority; algorithm places it as a concluding viewpoint.
+12/8/2025,Google,danish intelligence report,1,NYT,Politics / Security,No,US,Denmark warns about US policy shifts
+12/8/2025,Google,danish intelligence report,2,CNN,Politics / Security,No,US,US labeled potential security concern
+12/8/2025,Google,danish intelligence report,3,Yahoo News,Politics,No,US,US described as national security risk
+12/8/2025,Google,danish intelligence report,4,Law & Crime,Politics,No,US,First time Denmark calls US a security risk
+12/8/2025,Google,danish intelligence report,5,UPI,Security,No,US,Denmark updates threat assessment
+12/8/2025,Google,danish intelligence report,6,Washington Examiner,Politics,No,US,Concerns over US commitment to Europe
+12/8/2025,Google,danish intelligence report,7,The Hill,Politics,No,US,Puts US in risk group with Russia & China
+12/8/2025,Google,danish intelligence report,8,Euronews,Europe / Security,No,EU,NATO ally labels US a threat
+12/8/2025,Google,danish intelligence report,9,Salon,Opinion / Politics,No,US,Calls US a global security risk
+12/8/2025,Google,danish intelligence report,10,Euronews,Europe / Politics,No,EU,Duplicate scroll; kept for completeness
+12/8/2025,Google,danish intelligence report,11,Salon,Opinion,No,US,Duplicate scroll
+12/8/2025,Google,danish intelligence report,12,Washington Post,Politics,No,US,Other nations updating threat assessments
+12/8/2025,Google,china ai hardware suppliers list,1,Tom’s Hardware,Tech / Hardware,No,US,China releases approved AI hardware supplier list; Nvidia excluded.
+12/8/2025,Google,china ai hardware suppliers list,2,NPR,Economy / Tech,No,US,China accelerates chip independence efforts.
+12/8/2025,Google,china ai hardware suppliers list,3,ZDNet,Tech,No,US,China evaluating Nvidia H200 amid export restrictions.
+12/8/2025,Google,china ai hardware suppliers list,4,Ars Technica,Science / AI,No,US,AI brain-scan dataset news trending alongside chip stories.
+12/8/2025,Google,china ai hardware suppliers list,5,Tom’s Hardware,Tech / Hardware,No,US,Gambles on counterfeit GH systems highlight hardware scarcity.
+12/8/2025,Google,china ai hardware suppliers list,6,Tom’s Hardware,Tech / Market,No,US,DDR5 RAM scalping shows pressure on AI hardware ecosystem.
+12/8/2025,Google,china ai hardware suppliers list,7,Tom’s Hardware,Tech / Hardware,No,US,Niche hardware story still surfaces due to site authority.
+12/8/2025,Google,china ai hardware suppliers list,8,Tom’s Hardware,Crime / Tech,No,US,UC Berkeley sabotage case gains strong traction.
+12/8/2025,Google,china ai hardware suppliers list,9,Tom’s Hardware,Crime / Tech,No,US,Duplicate of sabotage story; Google clusters similar articles.
+12/8/2025,Google,china ai hardware suppliers list,10,Tom’s Hardware,Tech / Geopolitics,No,US,"US reverses export stance, allowing Nvidia H200 chips."
+12/8/2025,Google,china ai hardware suppliers list,11,Tom’s Hardware,Tech / Market,No,US,RAM pricing exposes supply-chain constraint patterns.
+12/8/2025,Google,us tanker seized,1,BBC,World News,No,UK,Venezuela calls seizure “act of piracy”; high editorial authority.
+12/8/2025,Google,us tanker seized,2,NYT,Investigative / Security,No,US,Tanker falsified location data; strong investigative angle.
+12/8/2025,Google,us tanker seized,3,CBS News,World News,No,US,Article explains tanker identity and timeline.
+12/8/2025,Google,us tanker seized,4,CNN,US Politics,No,US,Trump comments on seizure; political framing.
+12/8/2025,Google,us tanker seized,5,Reuters,Geopolitics / Energy,No,UK,30+ sanctioned ships now at risk in Venezuelan waters.
+12/8/2025,Google,us tanker seized,6,The Guardian,World News,No,UK,Venezuela accuses US of violating sovereignty.
+12/8/2025,Google,us tanker seized,7,NPR,US Politics / World News,No,US,Biden/Trump narratives tied to foreign policy risks.
+12/8/2025,Google,us tanker seized,8,USA Today,Mainstream,No,US,General-audience timeline summarizing key details.
+12/8/2025,Google,us tanker seized,9,CBS News,Politics / Crime,No,US,Duplicate cluster—reinforces algorithmic recency.
+12/8/2025,Google,us tanker seized,10,Newsweek,World News,No,US,“Everything we know” aggregated analysis format.
+12/11/2025,Google,south korea protests,1,India News Network,Foreign,No,India,Frames SK protests through India’s geopolitical lens.
+12/11/2025,Google,south korea protests,2,MSN (Korean source syndicated),Mainstream,No,South Korea,Reposts Korean reporting with Western-friendly framing.
+12/11/2025,Google,south korea protests,3,AP News,Independent,No,Global,Strong geopolitical framing around U.S. relations.
+12/11/2025,Google,south korea protests,4,Korea JoongAng Daily,Mainstream,No,South Korea,Domestic angle focused on military access issues.
+12/11/2025,Google,south korea protests,5,Chosun Ilbo,Mainstream,No,South Korea,"Conservative leaning, highlighting corruption narratives."
+12/11/2025,Google,south korea protests,6,WION,Foreign,No,India,"Sensationalist, heavy emphasis on China-Russia angle."
+12/11/2025,Google,south korea protests,7,FXEmpire,Independent,No,US,Economic framing inserted into geopolitical story.
+12/11/2025,Google,south korea protests,8,Middle East Monitor,Independent,No,UK,Links SK events to broader regional instability.
+12/11/2025,Google,south korea protests,9,MSN,Mainstream (Aggregator),No,Global,Highly duplicate syndicated article.
+12/11/2025,Google,south korea protests,10,AP News,Independent,No,Global,Repeated AP coverage prioritized twice by Google.
+12/11/2025,Google,tourist to usa,1,BBC,Mainstream,No,UK,"Focuses on policy impact, neutral tone."
+12/11/2025,Google,tourist to usa,2,CBS News,Mainstream,No,US,Emphasizes immigration control narrative.
+12/11/2025,Google,tourist to usa,3,The Washington Post,Mainstream,No,US,Strong civil liberties framing.
+12/11/2025,Google,tourist to usa,4,The New York Times,Mainstream,No,US,Historical context around surveillance expansion.
+12/11/2025,Google,tourist to usa,5,NBC News,Mainstream,No,US,Clear alignment with Biden/Trump policy debate.
+12/11/2025,Google,tourist to usa,6,DW,Foreign,No,Germany,External European critique of U.S. policy.
+12/11/2025,Google,tourist to usa,7,CNBC,Mainstream,No,US,Business-centric framing.
+12/11/2025,Google,tourist to usa,8,ABC7 Los Angeles,Mainstream local,No,US,Localized spin on global policy.
+12/11/2025,Google,tourist to usa,9,Al Jazeera,Foreign,No,Qatar,"Critical tone, highlights rights concerns."
+12/11/2025,Google,tourist to usa,10,The Guardian,Mainstream,No,UK,Critical framing of U.S. surveillance expansion.
+12/11/2025,Google,chrome for iphone,1,MacRumors,Independent (Tech),No,US,"Tech-centric early coverage, tends to rank high."
+12/11/2025,Google,chrome for iphone,2,PCMag,Mainstream (Tech),No,US,Practical feature breakdown.
+12/11/2025,Google,chrome for iphone,3,9to5Google,Independent (Tech),No,US,Google-aligned audience; positive framing.
+12/11/2025,Google,chrome for iphone,4,Forbes,Mainstream,No,US,Mixed framing: privacy concerns vs capability.
+12/11/2025,Google,chrome for iphone,5,Digital Trends,Mainstream (Tech),No,US,UX-focused framing.
+12/11/2025,Google,chrome for iphone,6,Business Standard,Mainstream,No,India,External market framing.
+12/11/2025,Google,chrome for iphone,7,MacObserver,Independent (Tech),No,US,Apple-centric readership; cautious tone.
+12/11/2025,Google,chrome for iphone,8,The Economist Times,Mainstream,No,UK/India,Privacy & regulation analysis.
+12/11/2025,Google,chrome for iphone,9,Gizmodo,Independent (Tech),No,US,More sensational privacy narrative.
+12/11/2025,Google,chrome for iphone,10,MSN,Mainstream (Aggregator),No,Global,Syndicated material surfaced due to algorithm boost.
+12/12/2025,Google,American Secretary of State,1,The Washington Post,Politics / Government,No,USA,Focus on typography policy & diplomacy framing
+12/12/2025,Google,American Secretary of State,2,Axios,Politics,No,USA,"Fast-analysis style, culture-war framing"
+12/12/2025,Google,American Secretary of State,3,NPR,Politics / Public Policy,No,USA,"Public-interest framing, neutral tone"
+12/12/2025,Google,American Secretary of State,4,Arab American News,Politics / Elections,No,USA,Regional political angle
+12/12/2025,Google,American Secretary of State,5,Newsday,Politics,No,USA,Localized US political reporting
+12/12/2025,Google,American Secretary of State,6,Colorado Politics,Politics / Legal,No,USA,Legal dispute framing
+12/12/2025,Google,American Secretary of State,7,Nation Thailand,International Politics,No,Thailand,Foreign-policy spillover angle
+12/12/2025,Google,American Secretary of State,8,POLITICO,Politics,No,USA,Opinion + insider framing
+12/12/2025,Google,American Secretary of State,9,South China Morning Post,Geopolitics,No,Hong Kong,US–China strategic lens
+12/12/2025,Google,American Secretary of State,10,CBS News,Politics / Crime,No,USA,Broader US political news mix
+12/12/2025,Google,US Transportation Secretary,1,TravelPulse,Travel / Policy,No,USA,Lifestyle framing of policy
+12/12/2025,Google,US Transportation Secretary,2,Washington Examiner,Politics,No,USA,Conservative editorial tone
+12/12/2025,Google,US Transportation Secretary,3,Fortune,Business / Infrastructure,No,USA,Economic framing
+12/12/2025,Google,US Transportation Secretary,4,AOL,Politics,No,USA,Aggregated news style
+12/12/2025,Google,US Transportation Secretary,5,Claims Journal,Regulation / Transport,No,USA,Industry-specific reporting
+12/12/2025,Google,US Transportation Secretary,6,CBS News,Infrastructure,No,USA,Public-sector focus
+12/12/2025,Google,US Transportation Secretary,7,IndyStar,Politics,No,USA,State-level angle
+12/12/2025,Google,US Transportation Secretary,8,Railway Track & Structures,Infrastructure,No,USA,Technical industry focus
+12/12/2025,Google,US Transportation Secretary,9,The Travel,Consumer / Travel,No,USA,Airline & passenger framing
+12/12/2025,Google,US Transportation Secretary,10,Reuters,Politics / Regulation,No,International,"Neutral, factual reporting"
+12/12/2025,Google,Bank of America Nvidia Forecast,1,TheStreet,Finance,No,USA,Market-reactive headline
+12/12/2025,Google,Bank of America Nvidia Forecast,2,CoinCentral,Crypto / Markets,No,USA,Retail-investor oriented
+12/12/2025,Google,Bank of America Nvidia Forecast,3,Blockonomi,Finance / Tech,No,USA,Tech-stock angle
+12/12/2025,Google,Bank of America Nvidia Forecast,4,Yahoo Finance,Finance,No,USA,Mainstream investor audience
+12/12/2025,Google,Bank of America Nvidia Forecast,5,CNBC,Markets,No,USA,Institutional framing
+12/12/2025,Google,Bank of America Nvidia Forecast,6,AOL,Finance,No,USA,Aggregated finance news
+12/12/2025,Google,Bank of America Nvidia Forecast,7,Finviz,Markets / Analysis,No,USA,Analyst-driven framing
+12/12/2025,Google,Bank of America Nvidia Forecast,8,Traders Union,Trading,No,International,Retail trading focus
+12/12/2025,Google,Bank of America Nvidia Forecast,9,Yahoo Finance,Finance / Stocks,No,USA,Broader tech-sector context
+12/12/2025,Google,Bank of America Nvidia Forecast,10,TheStreet,Finance,No,USA,Opinionated market take
+12/12/2025,Google,US–Japan Joint Flight Drills,1,AP News,International / Military,No,USA,"Straight news framing, emphasis on China threat"
+12/12/2025,Google,US–Japan Joint Flight Drills,2,Reuters,International / Defense,No,UK,"Neutral, diplomatic language"
+12/12/2025,Google,US–Japan Joint Flight Drills,3,USNI News,Military / Defense,No,USA,Technical military focus
+12/12/2025,Google,US–Japan Joint Flight Drills,4,Islam Times,International / Politics,No,International,Alternative geopolitical framing
+12/12/2025,Google,US–Japan Joint Flight Drills,5,DW,International,No,Germany,Europe-facing interpretation
+12/12/2025,Google,US–Japan Joint Flight Drills,6,Ervin Ajdin,Opinion / Analysis,No,International,Commentary tone
+12/12/2025,Google,US–Japan Joint Flight Drills,7,NewsNation,International,No,USA,TV-news aligned framing
+12/12/2025,Google,US–Japan Joint Flight Drills,8,WSLS,Regional News,No,USA,Localized reporting
+12/12/2025,Google,US–Japan Joint Flight Drills,9,France 24,International,No,France,Global diplomatic framing
+12/12/2025,Google,US–Japan Joint Flight Drills,10,AeroTime,Aviation / Defense,No,International,Niche aviation focus
+12/12/2025,Google,Google Disco Browser,1,The Verge,Technology,No,USA,Product-focused tech journalism
+12/12/2025,Google,Google Disco Browser,2,9to5Google,Technology,No,USA,Google ecosystem specialist
+12/12/2025,Google,Google Disco Browser,3,TechCrunch,Technology / Startups,No,USA,Innovation framing
+12/12/2025,Google,Google Disco Browser,4,Engadget,Technology,No,USA,Consumer tech lens
+12/12/2025,Google,Google Disco Browser,5,Android Authority,Technology,No,USA,Platform-specific analysis
+12/12/2025,Google,Google Disco Browser,6,Neowin,Technology,No,USA,OS/browser comparison angle
+12/12/2025,Google,Google Disco Browser,7,BGR,Technology,No,USA,Hype-oriented tone
+12/12/2025,Google,Google Disco Browser,8,FindArticles,Technology,No,International,Aggregated content
+12/12/2025,Google,Google Disco Browser,9,AdExchanger,Tech / Advertising,No,USA,Ads & monetization angle
+12/12/2025,Google,Google Disco Browser,10,—,—,—,—,Page heavily dominated by US tech media
+12/12/2025,Google,US Sanctions on Venezuela,1,Reuters,International / Politics,No,UK,Lead authority on sanctions
+12/12/2025,Google,US Sanctions on Venezuela,2,The Guardian,International,No,UK,Critical tone toward US policy
+12/12/2025,Google,US Sanctions on Venezuela,3,TODAY.com,US Politics,No,USA,White House framing
+12/12/2025,Google,US Sanctions on Venezuela,4,New York Times,International,No,USA,Institutional credibility
+12/12/2025,Google,US Sanctions on Venezuela,5,CNN,International,No,USA,TV-news aligned narrative
+12/12/2025,Google,US Sanctions on Venezuela,6,Al Jazeera,International,No,Qatar,Global South framing
+12/12/2025,Google,US Sanctions on Venezuela,7,Sky News,International,No,UK,UK audience focus
+12/12/2025,Google,US Sanctions on Venezuela,8,NBC News,US Politics,No,USA,Domestic political lens
+12/12/2025,Google,US Sanctions on Venezuela,9,Axios,Politics / Policy,No,USA,"Brief, elite-policy tone"
+12/12/2025,Google,US Sanctions on Venezuela,10,Times of India,International,No,India,Global redistribution of US news
+12/13/2025,Google,Thailand rejects ceasefire,1,The New York Times,Politics / Conflict,No,USA,Thailand rejects Trump ceasefire claim
+12/13/2025,Google,Thailand rejects ceasefire,2,Reuters,Politics / Conflict,No,UK,Vows to keep fighting Cambodia
+12/13/2025,Google,Thailand rejects ceasefire,3,Yahoo News,Politics / Conflict,No,USA,Rejects calls for ceasefire
+12/13/2025,Google,Thailand rejects ceasefire,4,The Diplomatic Insight,International Affairs,No,Pakistan,Disputes ceasefire announcement
+12/13/2025,Google,Thailand rejects ceasefire,5,Thai Enquirer,Regional Politics,No,Thailand,Border conflict context
+12/13/2025,Google,Thailand rejects ceasefire,6,Asia The Voice,Politics,No,Asia,Military operations continue
+12/13/2025,Google,Thailand rejects ceasefire,7,Khmer Times,Regional Conflict,No,Cambodia,Cambodia reaction
+12/13/2025,Google,Thailand rejects ceasefire,8,Times of India,World News,No,India,"Soldiers killed, ceasefire denied"
+12/13/2025,Google,Thailand rejects ceasefire,9,Chinamil,Defense,No,China,Military action continues
+12/13/2025,Google,Thailand rejects ceasefire,10,Moneycontrol,Politics,No,India,Political framing
+12/13/2025,Google,Flooding Washington state,1,The New York Times,Climate / Disaster,No,USA,Record flooding
+12/13/2025,Google,Flooding Washington state,2,CNN,Climate / Disaster,No,USA,Atmospheric rivers
+12/13/2025,Google,Flooding Washington state,3,The Guardian,Environment,No,UK,Pacific Northwest impact
+12/13/2025,Google,Flooding Washington state,4,KING 5 Seattle,Local News,No,USA,Evacuation zones
+12/13/2025,Google,Flooding Washington state,5,NBC News,Weather,No,USA,Emergency response
+12/13/2025,Google,Flooding Washington state,6,USA Today,Weather,No,USA,Visual coverage
+12/13/2025,Google,Flooding Washington state,7,AP News,Climate,No,USA,Rescues underway
+12/13/2025,Google,Flooding Washington state,8,NPR,Public Safety,No,USA,Thousands evacuated
+12/13/2025,Google,Flooding Washington state,9,CBS News,Weather,No,USA,Human interest angle
+12/13/2025,Google,Flooding Washington state,10,Fox 13 Seattle,Local News,No,USA,Road closures
+12/13/2025,Google,House Democrats release Epstein photos,1,BBC,Politics / Scandal,No,UK,Second batch released
+12/13/2025,Google,House Democrats release Epstein photos,2,NBC News,Politics,No,USA,"Trump, Clinton mentioned"
+12/13/2025,Google,House Democrats release Epstein photos,3,The New York Times,Investigative,No,USA,Estate connections
+12/13/2025,Google,House Democrats release Epstein photos,4,CNN,Politics,No,USA,High-profile figures
+12/13/2025,Google,House Democrats release Epstein photos,5,The Guardian,Politics,No,UK,Oversight Committee
+12/13/2025,Google,House Democrats release Epstein photos,6,The Washington Post,Politics,No,USA,House Democrats framing
+12/13/2025,Google,House Democrats release Epstein photos,7,AP News,Politics,No,USA,Bipartisan reactions
+12/13/2025,Google,House Democrats release Epstein photos,8,ABC News,Politics,No,USA,Newly released images
+12/13/2025,Google,House Democrats release Epstein photos,9,Fox News,Politics,No,USA,Counter-narrative
+12/13/2025,Google,House Democrats release Epstein photos,10,CBS News,Politics,No,USA,Public reaction
